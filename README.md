@@ -22,12 +22,12 @@ Either as you go or after you are done writing your program, answer the followin
 
 **What did Copilot do well as the driver?**
 
-Write your response here!
+They explained well what each line of code they suggested did. This made it so I know what the code did and didnt leave me confused in the end. 
 
 **What did Copilot struggle with as the driver?**
 
-Write your response here!
+It has some problems with handling unexpected situations or errors.
 
 **What challenges did you face while working with Copilot as the driver?**
 
-Write your response here!
+It orignally attempted to write the code in python so I had to suggest to switch it to Java.

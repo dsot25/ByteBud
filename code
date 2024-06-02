@@ -1,0 +1,11 @@
+public String processInput(String userInput) {
+    userInput = userInput.trim().toLowerCase();
+
+    if (userInput.equals("hello")) {
+        return "Hello, user!";
+    } else if (userInput.equals("bye")) {
+        return "Goodbye, user!";
+    } else {
+        return "I didn't understand that. Could you please rephrase?";
+    }
+}
